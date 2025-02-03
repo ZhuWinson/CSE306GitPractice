@@ -1,1 +1,1 @@
-# CSE306Gitractice
+# CSE306GitPractice
